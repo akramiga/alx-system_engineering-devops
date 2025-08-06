@@ -1,0 +1,4 @@
+#!bin/bash
+export BINARY = 20
+result = $((2# BINARY))
+echo "$result"
