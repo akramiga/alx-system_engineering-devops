@@ -1,3 +1,2 @@
 #!/bin/bash
-export NUM =10
 printf"%.2f\n"

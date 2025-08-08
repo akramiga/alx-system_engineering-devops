@@ -1,5 +1,3 @@
 #!/bin/bash
-export BREATH = 20
-export LOVE = 3
 result = $((BREATH ** LOVE))
-echo "$result"
+
