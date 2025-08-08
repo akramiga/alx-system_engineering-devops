@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 export TRUEKNOWLEDGE = 20
 result = $((128 + TRUEKNOWLEDGE))
 echo "$result"

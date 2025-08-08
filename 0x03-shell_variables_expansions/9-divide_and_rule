@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 export POWER = 20
 export DIVIDE = 3
 result = $((POWER / DIVIDE))
